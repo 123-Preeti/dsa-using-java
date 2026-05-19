@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Important_question/Important_question.iml" filepath="$PROJECT_DIR$/../../Important_question/Important_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-AWTExamples/JM1-AWTExamples.iml" filepath="$PROJECT_DIR$/../JM1-AWTExamples/JM1-AWTExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JM1-Collections.iml" filepath="$PROJECT_DIR$/JM1-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-IOPackage/JM1-IOPackage.iml" filepath="$PROJECT_DIR$/../JM1-IOPackage/JM1-IOPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-LangPackage/JM1-LangPackage.iml" filepath="$PROJECT_DIR$/../JM1-LangPackage/JM1-LangPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-NetPackage/JM1-NetPackage.iml" filepath="$PROJECT_DIR$/../JM1-NetPackage/JM1-NetPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-NetPackage/JM1-SQLPackage/JM1-SQLPackage.iml" filepath="$PROJECT_DIR$/../JM1-NetPackage/JM1-SQLPackage/JM1-SQLPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-SQLSyntax/JM1-SQLSyntax.iml" filepath="$PROJECT_DIR$/../JM1-SQLSyntax/JM1-SQLSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-SwingExample-Part1/JM1-SwingExample-Part1.iml" filepath="$PROJECT_DIR$/../JM1-SwingExample-Part1/JM1-SwingExample-Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-SwingExample-Part2/JM1-SwingExample-Part2.iml" filepath="$PROJECT_DIR$/../JM1-SwingExample-Part2/JM1-SwingExample-Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JM1-SwingExample-Part3/JM1-SwingExample-Part3.iml" filepath="$PROJECT_DIR$/../JM1-SwingExample-Part3/JM1-SwingExample-Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PracticeLinkedList/PracticeLinkedList.iml" filepath="$PROJECT_DIR$/../../PracticeLinkedList/PracticeLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../java-basic-impl/java-basic-impl2.iml" filepath="$PROJECT_DIR$/../../java-basic-impl/java-basic-impl2.iml" />
+    </modules>
+  </component>
+</project>
